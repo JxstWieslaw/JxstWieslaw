@@ -1,6 +1,6 @@
 ### Hi there 👋 
 # 💫 
-🔭 I’m currently working on a metaverse platform for an e-commerce venture.<br>👯 I’m looking to collaborate on 3D, AR and VR projects.<br>🤝 I’m looking for help with  raycasting and spatial queries, 😅some 3D mathematics and physics<br>🌱 I’m currently learning UI/UX.<br>💬 Ask me about Three.js.<br>⚡ Fun fact - I'm almost always available for a chat.
+🔭 I’m currently working on my personal portfolio website.<br>👯 I’m looking to collaborate on 3D, AR and VR projects.<br>🤝 I’m looking for help with raycasting and spatial queries, 😅some 3D mathematics and physics<br>🌱 I’m currently learning to write clean code and system design.<br>💬 Ask me about Three.js.<br>⚡ Fun fact - I'm almost always available for a chat.
 
 
 ## 🌐 Socials:
