@@ -209,33 +209,35 @@ API design, front-end implementation and the deployment pipeline behind them.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=JxstWieslaw&hide_border=true&background=0D1117&stroke=1F2937&ring=A78BFA&fire=22D3EE&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=8B949E&dates=6E7681" alt="GitHub streak" width="88%" />
+<img src="https://github-readme-stats-theta-one-24.vercel.app/api?username=JxstWieslaw&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&ring_color=22D3EE" height="176" alt="GitHub stats: 1.7k commits, 264 pull requests, rank B+" />
+<img src="https://streak-stats.demolab.com?user=JxstWieslaw&hide_border=true&background=0D1117&stroke=1F2937&ring=A78BFA&fire=22D3EE&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=8B949E&dates=6E7681" height="176" alt="GitHub contribution streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JxstWieslaw&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=22D3EE&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity&radius=8" alt="Contribution activity graph" width="98%" />
 
 </div>
 
 <!--
-  ── Language / stats cards ──────────────────────────────────────────────
-  The public github-readme-stats instance is rate-limited (503), so its
-  cards would render as broken images. Self-hosting fixes that permanently.
+  ── Top-languages card: deliberately omitted ────────────────────────────
+  Self-hosted instance is live at:
+    https://github-readme-stats-theta-one-24.vercel.app
 
-  Step 1 is DONE — the fork already exists:
-    https://github.com/JxstWieslaw/github-readme-stats
+  The stats card above is served from it. The top-langs card is NOT,
+  because it reads language bytes from public repositories only — and the
+  production TypeScript work lives in private/client repos outside this
+  account. It currently renders:
 
-  Remaining steps (about five minutes):
+      JavaScript 77.6% | CSS 9.5% | HTML 7.6% | TypeScript 2.45%
+      ...plus CoffeeScript, CMake and SCSS pulled in from forks
 
-    2. Create a GitHub token (classic) with only the `repo` scope:
-         https://github.com/settings/tokens/new?scopes=repo&description=github-readme-stats
-    3. Import the fork at https://vercel.com/new — pick the
-       github-readme-stats repo, and before deploying add an
-       Environment Variable:  PAT_1  =  the token from step 2
-    4. Deploy, copy the production URL, then replace both instances of
-       YOUR-INSTANCE below and delete these comment markers.
+  Directly under a profile describing TypeScript and Next.js work, that
+  reads as a contradiction rather than a credential. The Tech Stack
+  section above already communicates the same information accurately.
+
+  To enable it anyway, uncomment this block. Excluding forks first with
+  &exclude_repo=repo-a,repo-b will at least remove the noise languages:
 
 <div align="center">
-  <img src="https://YOUR-INSTANCE.vercel.app/api?username=JxstWieslaw&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9" height="165" alt="GitHub stats" />
-  <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=JxstWieslaw&layout=compact&langs_count=8&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats-theta-one-24.vercel.app/api/top-langs/?username=JxstWieslaw&layout=compact&langs_count=6&hide=coffeescript,cmake,scss&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="165" alt="Top languages" />
 </div>
 -->
 
