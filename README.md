@@ -262,6 +262,9 @@ if it's an interesting problem, I'd like to hear about it.
 <a href="https://linkedin.com/in/wieslaw-samushonga-3b3913154">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
 </a>
+<a href="https://rapidevlabs.com">
+  <img src="https://img.shields.io/badge/Rapidev_Labs-Visit-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Rapidev Labs" />
+</a>
 
 <br/>
 
