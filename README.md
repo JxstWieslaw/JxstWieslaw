@@ -217,18 +217,25 @@ API design, front-end implementation and the deployment pipeline behind them.
 
 <!--
   ── Language / stats cards ──────────────────────────────────────────────
-  The public github-readme-stats instance is rate-limited (503) and its
-  cards would render as broken images. To enable them durably, deploy your
-  own instance — it takes about ten minutes and then never rate-limits:
+  The public github-readme-stats instance is rate-limited (503), so its
+  cards would render as broken images. Self-hosting fixes that permanently.
 
-    1. Fork  https://github.com/anuraghazra/github-readme-stats
-    2. Import the fork into Vercel and deploy it
-    3. Add a Vercel env var  PAT_1  =  a GitHub token with `repo` scope
-    4. Replace YOUR-INSTANCE below with your deployment URL and uncomment
+  Step 1 is DONE — the fork already exists:
+    https://github.com/JxstWieslaw/github-readme-stats
+
+  Remaining steps (about five minutes):
+
+    2. Create a GitHub token (classic) with only the `repo` scope:
+         https://github.com/settings/tokens/new?scopes=repo&description=github-readme-stats
+    3. Import the fork at https://vercel.com/new — pick the
+       github-readme-stats repo, and before deploying add an
+       Environment Variable:  PAT_1  =  the token from step 2
+    4. Deploy, copy the production URL, then replace both instances of
+       YOUR-INSTANCE below and delete these comment markers.
 
 <div align="center">
   <img src="https://YOUR-INSTANCE.vercel.app/api?username=JxstWieslaw&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9" height="165" alt="GitHub stats" />
-  <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=JxstWieslaw&layout=compact&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="165" alt="Top languages" />
+  <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=JxstWieslaw&layout=compact&langs_count=8&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="165" alt="Top languages" />
 </div>
 -->
 
@@ -247,21 +254,21 @@ if it's an interesting problem, I'd like to hear about it.
 
 <br/>
 
+<a href="mailto:wieslawsamushonga01@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get_in_touch-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+</a>
 <a href="https://linkedin.com/in/wieslaw-samushonga-3b3913154">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
 </a>
+
+<br/>
+
 <a href="https://x.com/wiesysams1">
-  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="X" />
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white&labelColor=0D1117" alt="X" />
 </a>
 <a href="https://medium.com/@youngswiesysams">
-  <img src="https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=0D1117" alt="Medium" />
+  <img src="https://img.shields.io/badge/Medium-Read-12100E?style=flat-square&logo=medium&logoColor=white&labelColor=0D1117" alt="Medium" />
 </a>
-
-<!-- Add your contact email here when you're ready to publish one, e.g.:
-<a href="mailto:you@example.com">
-  <img src="https://img.shields.io/badge/Email-Get_in_touch-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
-</a>
--->
 
 <br/><br/>
 
