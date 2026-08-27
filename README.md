@@ -122,6 +122,10 @@ API design, front-end implementation and the deployment pipeline behind them.
 <td valign="top">Pull-request performance and review-signal tooling. Public.</td>
 <td valign="top"><sub>TypeScript · Next.js · Vercel Blob · Motion</sub></td></tr>
 
+<tr><td valign="top"><b><a href="https://github.com/JxstWieslaw/portfolio">portfolio</a></b><br/><sub>This site</sub></td>
+<td valign="top">The site you're reading about, built in the open — 584 unit tests, Playwright and axe across five browsers, and CI that enforces bundle-size and Lighthouse budgets rather than describing them. Public.</td>
+<td valign="top"><sub>Next.js · TypeScript · Tailwind v4 · Playwright · Turborepo</sub></td></tr>
+
 <tr><td valign="top"><b>purchase-requisition</b><br/><sub>Procurement / ERP</sub></td>
 <td valign="top">Procurement workflow system with approval chains and generated PDF documentation.</td>
 <td valign="top"><sub>Next.js · Supabase · jsPDF</sub></td></tr>
