@@ -4,3 +4,6 @@
 
 # Git worktrees for parallel sessions
 .worktrees/
+
+# Turborepo local cache
+.turbo/
