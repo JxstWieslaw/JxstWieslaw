@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/wieslaw-samushonga-3b3913154">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=780&height=45&lines=Tech+Lead+%40+Data+Age;Senior+Software+Engineer+%40+Rapidev+Labs;I+lead+teams+and+ship+production+platforms;...and+I+make+the+web+move+with+WebGL" alt="Tech Lead @ Data Age — Senior Software Engineer @ Rapidev Labs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=780&height=45&lines=Tech+Lead+%40+Data+Age;Senior+Software+Engineer+%40+Rapidev+Labs;I+lead+teams+and+ship+production+platforms;...and+I+make+the+web+move+with+WebGL" alt="Tech Lead @ Data Age — Team Lead | Senior Software Engineer @ Rapidev Labs" />
 </a>
 
 <br/>
