@@ -78,7 +78,7 @@ not just that it ships.
 <td width="50%" valign="top">
 
 ### <img src="https://img.shields.io/badge/-22D3EE?style=flat-square&labelColor=22D3EE" height="12" /> Rapidev Labs
-**Senior Software Engineer**
+**Team Lead | Senior Software Engineer**
 
 Designing and shipping full-stack features end to end — data modelling,
 API design, front-end implementation and the deployment pipeline behind them.
