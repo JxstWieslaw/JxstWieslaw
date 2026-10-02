@@ -11,7 +11,7 @@
 <br/>
 
 ![Tech Lead @ Data Age](https://img.shields.io/badge/Tech_Lead-Data_Age-A78BFA?style=for-the-badge&labelColor=0D1117)
-![Senior Software Engineer @ Rapidev Labs](https://img.shields.io/badge/Senior_Engineer-Rapidev_Labs-22D3EE?style=for-the-badge&labelColor=0D1117)
+![Team Lead | Senior Software Engineer @ Rapidev Labs](https://img.shields.io/badge/Senior_Engineer-Rapidev_Labs-22D3EE?style=for-the-badge&labelColor=0D1117)
 ![Harare, Zimbabwe](https://img.shields.io/badge/Harare-Zimbabwe-7C3AED?style=for-the-badge&labelColor=0D1117)
 
 <a href="https://github.com/JxstWieslaw"><img src="https://komarev.com/ghpvc/?username=JxstWieslaw&label=Profile%20views&color=7C3AED&style=flat-square" alt="Profile views" /></a>
