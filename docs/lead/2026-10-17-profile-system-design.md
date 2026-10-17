@@ -23,7 +23,12 @@ Which system design should the profile use, and what else improves it?
    that touch the README and weekly (Mondays 06:00 UTC). Fails on dead or non-image
    widget URLs (3 attempts each) and on leftover merge-conflict markers. A failed
    scheduled run emails the owner; no issue-bot, no token. The checkout action is
-   pinned by SHA.
+   pinned by SHA. The stats and streak cards answer 200 even when broken, so for those
+   two hosts the body is also searched for their error text.
+   Known limits: scheduled workflows run only from the default branch (so nothing runs
+   weekly until this reaches `main`), and GitHub disables them after 60 days without
+   repo activity. Re-enable from the Actions tab if the Monday emails stop; a keep-alive
+   job was rejected because it needs a write token.
 3. **Counter badges are excluded from the check** (hits.sh, komarev.com): fetching
    them from CI would inflate the view count.
 4. **`portfolio/` is git-ignored.** A nested clone of the portfolio repo sat untracked
@@ -43,8 +48,20 @@ Which system design should the profile use, and what else improves it?
 - Add the live portfolio URL to the README and the profile `blog` field once the site is
   deployed. It does not exist yet, so nothing is linked.
 
+## Found while verifying
+
+The new body check caught a live fault: the self-hosted stats instance
+(github-readme-stats-theta-one-24.vercel.app, Vercel project `github-readme-stats`)
+renders "Something went wrong!" for every username. Runtime logs show `PAT_1 Failed`
+and `PAT_2 Failed` on each request, so both GitHub tokens in its environment are
+expired or revoked. The profile's stats card is broken until Wieslaw creates a new token
+and sets `PAT_1` in that Vercel project, then redeploys. Credentials were not touched.
+The README check on this PR stays red until then, which is the intended behaviour.
+
 ## Verification
 
-- `node scripts/check-readme.mjs`: 80 images checked, README OK.
+- `node scripts/check-readme.mjs`: 79 images checked; the only failure is the broken stats card above.
+- Review (code-reviewer): no Critical/High; the two Medium findings (error cards that
+  answer 200, scheduled-run limits) are handled above.
 - Negative test: appending a dead widget URL and a conflict marker made it exit 1 with
   both problems named.
