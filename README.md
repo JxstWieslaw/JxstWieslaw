@@ -14,7 +14,7 @@
 ![Team Lead @ Rapidev Labs](https://img.shields.io/badge/Team_Lead-Rapidev_Labs-22D3EE?style=for-the-badge&labelColor=0D1117)
 ![Harare, Zimbabwe](https://img.shields.io/badge/Harare-Zimbabwe-7C3AED?style=for-the-badge&labelColor=0D1117)
 
-<a href="https://github.com/JxstWieslaw"><img src="https://komarev.com/ghpvc/?username=JxstWieslaw&label=Profile%20views&color=7C3AED&style=flat-square" alt="Profile views" /></a>
+<a href="https://github.com/JxstWieslaw"><img src="https://hits.sh/github.com/JxstWieslaw.svg?style=for-the-badge&label=Profile%20views&color=7C3AED&labelColor=0D1117" alt="Profile views" /></a>
 
 </div>
 
@@ -36,7 +36,7 @@ and the performance budgets that make it viable on a mid-range phone.
 I care about the unglamorous parts: reversible migrations, honest error handling,
 and code the next engineer can read.
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:7C3AED,100:22D3EE&height=2" alt="" />
 
 <!-- ═══════════════════════════ AT A GLANCE ═══════════════════════════ -->
 
@@ -44,7 +44,7 @@ and code the next engineer can read.
 
 <div align="center">
 
-![Experience](https://img.shields.io/badge/Experience-5%2B_years-A78BFA?style=for-the-badge&labelColor=0D1117)
+![Experience](https://img.shields.io/badge/Experience-6%2B_years-A78BFA?style=for-the-badge&labelColor=0D1117)
 ![Domains](https://img.shields.io/badge/Domains_shipped-7-22D3EE?style=for-the-badge&labelColor=0D1117)
 ![Repositories](https://img.shields.io/badge/Repositories-76-7C3AED?style=for-the-badge&labelColor=0D1117)
 ![Leadership](https://img.shields.io/badge/Leadership-Technical_direction_%26_mentorship-A78BFA?style=for-the-badge&labelColor=0D1117)
@@ -55,7 +55,7 @@ and code the next engineer can read.
 > **Healthcare** · **Education** · **Creator economy** · **Procurement / ERP** ·
 > **Social services** · **Developer tooling** · **Interactive 3D**
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:7C3AED,100:22D3EE&height=2" alt="" />
 
 <!-- ═══════════════════════════ WHERE I WORK ═══════════════════════════ -->
 
@@ -89,7 +89,7 @@ API design, front-end implementation and the deployment pipeline behind them.
 </tr>
 </table>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:7C3AED,100:22D3EE&height=2" alt="" />
 
 <!-- ═══════════════════════════ SELECTED WORK ═══════════════════════════ -->
 
@@ -134,7 +134,7 @@ API design, front-end implementation and the deployment pipeline behind them.
 
 <sub>Several of these are client or internal codebases and are not public.</sub>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:7C3AED,100:22D3EE&height=2" alt="" />
 
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 
@@ -205,7 +205,7 @@ API design, front-end implementation and the deployment pipeline behind them.
 ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white&labelColor=0D1117)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&labelColor=0D1117)
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:7C3AED,100:22D3EE&height=2" alt="" />
 
 <!-- ═══════════════════════════ GITHUB ACTIVITY ═══════════════════════════ -->
 
@@ -215,8 +215,6 @@ API design, front-end implementation and the deployment pipeline behind them.
 
 <img src="https://github-readme-stats-theta-one-24.vercel.app/api?username=JxstWieslaw&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&ring_color=22D3EE" height="176" alt="GitHub stats: 1.7k commits, 264 pull requests, rank B+" />
 <img src="https://streak-stats.demolab.com?user=JxstWieslaw&hide_border=true&background=0D1117&stroke=1F2937&ring=A78BFA&fire=22D3EE&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=8B949E&dates=6E7681" height="176" alt="GitHub contribution streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JxstWieslaw&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=22D3EE&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity&radius=8" alt="Contribution activity graph" width="98%" />
 
 </div>
 
@@ -245,7 +243,7 @@ API design, front-end implementation and the deployment pipeline behind them.
 </div>
 -->
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:7C3AED,100:22D3EE&height=2" alt="" />
 
 <!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
 
