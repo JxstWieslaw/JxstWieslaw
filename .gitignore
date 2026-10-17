@@ -7,3 +7,6 @@
 
 # Turborepo local cache
 .turbo/
+
+# Nested working copy of the portfolio repo (it has its own repository)
+portfolio/
