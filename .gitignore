@@ -1,0 +1,9 @@
+
+# Subagent-driven-development scratch (ledgers, briefs, review packages)
+.superpowers/
+
+# Git worktrees for parallel sessions
+.worktrees/
+
+# Turborepo local cache
+.turbo/

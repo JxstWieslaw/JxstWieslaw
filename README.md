@@ -1,17 +1,17 @@
 <!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:7C3AED,100:22D3EE&height=210&section=header&text=Wieslaw%20Samushonga&fontSize=44&fontColor=FFFFFF&fontAlignY=34&desc=Tech%20Lead%20%C2%B7%20Senior%20Software%20Engineer%20%C2%B7%20Harare%2C%20Zimbabwe&descSize=16&descAlignY=54&animation=fadeIn" alt="Wieslaw Samushonga" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:7C3AED,100:22D3EE&height=210&section=header&text=Wieslaw%20Samushonga&fontSize=44&fontColor=FFFFFF&fontAlignY=34&desc=Tech%20Lead%20%C2%B7%20Team%20Lead%20%C2%B7%20Harare%2C%20Zimbabwe&descSize=16&descAlignY=54&animation=fadeIn" alt="Wieslaw Samushonga" />
 
 <div align="center">
 
 <a href="https://linkedin.com/in/wieslaw-samushonga-3b3913154">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=780&height=45&lines=Tech+Lead+%40+Data+Age;Senior+Software+Engineer+%40+Rapidev+Labs;I+lead+teams+and+ship+production+platforms;...and+I+make+the+web+move+with+WebGL" alt="Tech Lead @ Data Age — Team Lead | Senior Software Engineer @ Rapidev Labs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=780&height=45&lines=Tech+Lead+%40+Data+Age;Team+Lead+%40+Rapidev+Labs;I+lead+teams+and+ship+production+platforms;...and+I+make+the+web+move+with+WebGL" alt="Tech Lead @ Data Age — Team Lead @ Rapidev Labs" />
 </a>
 
 <br/>
 
 ![Tech Lead @ Data Age](https://img.shields.io/badge/Tech_Lead-Data_Age-A78BFA?style=for-the-badge&labelColor=0D1117)
-![Team Lead | Senior Software Engineer @ Rapidev Labs](https://img.shields.io/badge/Senior_Engineer-Rapidev_Labs-22D3EE?style=for-the-badge&labelColor=0D1117)
+![Team Lead @ Rapidev Labs](https://img.shields.io/badge/Team_Lead-Rapidev_Labs-22D3EE?style=for-the-badge&labelColor=0D1117)
 ![Harare, Zimbabwe](https://img.shields.io/badge/Harare-Zimbabwe-7C3AED?style=for-the-badge&labelColor=0D1117)
 
 <a href="https://github.com/JxstWieslaw"><img src="https://komarev.com/ghpvc/?username=JxstWieslaw&label=Profile%20views&color=7C3AED&style=flat-square" alt="Profile views" /></a>
@@ -26,8 +26,8 @@ I build and lead the delivery of **production software that people depend on** �
 operations, learning platforms, creator-discovery tooling, procurement systems.
 
 As **Tech Lead at Data Age** I set technical direction, run code review and mentor
-engineers. As **Senior Software Engineer at Rapidev Labs** I stay deep in the codebase,
-architecting and shipping features end to end.
+engineers. As **Team Lead at Rapidev Labs** I stay deep in the codebase while leading the
+team, architecting and shipping features end to end.
 
 My default stack is **TypeScript, Next.js, Node and Postgres/Firebase** — but the thing
 that tends to surprise people is the **WebGL** work: real-time 3D on the web, physics,
@@ -78,9 +78,9 @@ not just that it ships.
 <td width="50%" valign="top">
 
 ### <img src="https://img.shields.io/badge/-22D3EE?style=flat-square&labelColor=22D3EE" height="12" /> Rapidev Labs
-**Team Lead | Senior Software Engineer**
+**Team Lead**
 
-Designing and shipping full-stack features end to end — data modelling,
+Leading the team while designing and shipping full-stack features end to end — data modelling,
 API design, front-end implementation and the deployment pipeline behind them.
 
 `Next.js` `TypeScript` `Node` `Cloud`
@@ -121,6 +121,10 @@ API design, front-end implementation and the deployment pipeline behind them.
 <tr><td valign="top"><b><a href="https://github.com/JxstWieslaw/PR-Pulse">PR-Pulse</a></b><br/><sub>Developer tooling</sub></td>
 <td valign="top">Pull-request performance and review-signal tooling. Public.</td>
 <td valign="top"><sub>TypeScript · Next.js · Vercel Blob · Motion</sub></td></tr>
+
+<tr><td valign="top"><b><a href="https://github.com/JxstWieslaw/portfolio">portfolio</a></b><br/><sub>This site</sub></td>
+<td valign="top">The site you're reading about, built in the open — 584 unit tests, Playwright and axe across five browsers, and CI that enforces bundle-size and Lighthouse budgets rather than describing them. Public.</td>
+<td valign="top"><sub>Next.js · TypeScript · Tailwind v4 · Playwright · Turborepo</sub></td></tr>
 
 <tr><td valign="top"><b>purchase-requisition</b><br/><sub>Procurement / ERP</sub></td>
 <td valign="top">Procurement workflow system with approval chains and generated PDF documentation.</td>
